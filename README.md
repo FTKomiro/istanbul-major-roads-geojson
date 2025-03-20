@@ -1,4 +1,4 @@
-# istanbul-major-roads-geojson
+# İstanbul major roads geojson / İstanbul ana yolları geojson
 
 Major Roads map of İstanbul in the format of GeoJSON.
 
