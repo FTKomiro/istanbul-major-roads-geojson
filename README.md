@@ -1,6 +1,6 @@
 # İstanbul major roads geojson file
 
-Major Roads map of İstanbul in the format of GeoJSON. File size 28mb.
+Major Roads map of İstanbul in the format of GeoJSON. File size is 28mb.
 
 GeoJSON formatında İstanbul ana yolları haritası. Dosya boyutu 28mb.
 
