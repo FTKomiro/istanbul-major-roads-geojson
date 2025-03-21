@@ -1,4 +1,4 @@
-# İstanbul major roads geojson file
+# İstanbul major roads geojson
 
 Major Roads map of İstanbul in the format of GeoJSON. File size is 28mb.
 
