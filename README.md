@@ -4,7 +4,10 @@ Major Roads map of İstanbul in the format of GeoJSON. File size is 28mb.
 
 GeoJSON formatında İstanbul ana yolları haritası. Dosya boyutu 28mb.
 
+
+
 Number of road segments: 26296
+
 Graph size: 23456 nodes, 26118 edges
 
 
